@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "97434b31-4b75-2aaf-e881-20681b258182",
+  "instructors": {
+    "content": [
+      "d6a1ef15-1b39-bc32-5637-efa93ea0c792"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0b041769-992e-2841-d2d3-16087eedb2cb",
+    "website": "2-00b-toy-product-design-spring-2021"
+  },
+  "course_title": "Toy Product Design",
+  "hide_download": true,
+  "course_description": "_Toy Product Design_ is an introduction to the product design process with a focus on designing for play and entertainment. It is a project-centric class offered in the Spring semester. Students work in small teams of 5\u20136 members to design and prototype new toys. Students will be introduced to various design topics, including: brainstorming; estimation; sketching; graphic design; drawing and marker rendering; sketch modeling; concept development; design aesthetics; prototyping; and written, visual, and oral communication.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.00B",
+  "course_image_thumbnail": {
+    "content": "95066dc8-5ae4-3859-4597-20c8c62aaeb6",
+    "website": "2-00b-toy-product-design-spring-2021"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Videos"
+  ],
+  "site_uid": "e67a2625-058e-4297-805f-45a74f2a691c",
+  "site_short_id": "2.00b-spring-2021",
+  "site_url_path": "courses/2-00b-toy-product-design-spring-2021",
+  "title": "Course Metadata"
+}

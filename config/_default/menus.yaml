@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 1a66b1ab-bd95-4fa1-bd41-8bc035b5dccb
+  name: 2.00B MOST RECENT CLASS
+  pageRef: /external-resources/200b-most-recent-class_1a66b1ab-bd95-4fa1-bd41-8bc035b5dccb
+  weight: 10
+- identifier: 0a2c053d-0f41-4ac8-bd63-2985cb59d849
+  name: 2.00B PREVIOUS CLASS PRESENTATIONS
+  pageRef: /external-resources/200b-previous-class-presentations_0a2c053d-0f41-4ac8-bd63-2985cb59d849
+  weight: 20
